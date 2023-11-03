@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First App</string>
+    <string name="please_add_a_new_todo">Per favore  nuovo TODO?</string>
+</resources>
